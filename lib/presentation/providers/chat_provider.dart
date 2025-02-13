@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:yes_no_app/config/helpers/get_yes_no_asnwer.dart';
 import 'package:yes_no_app/domain/entities/message.dart';
-
-
 // esto es un fix
+
+
 //changenotifier se usa para cambiar los datos mediante una notificacion
 class ChatProvider extends ChangeNotifier{
 
